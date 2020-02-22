@@ -1,2 +1,2 @@
 # CV
-### [Portfolio](../index.html)  |  [About me](pages/aboutme.html)  |  [CV](pages/cv.html)
+### [Portfolio](../index.html)  |  [About me](../aboutme.html)  |  [CV](../cv.html)

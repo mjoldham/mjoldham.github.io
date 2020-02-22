@@ -1,5 +1,6 @@
 ## Mark Oldham
-### <span>mark.oldham1@</span>btinternet.com
+#### <span>mark.oldham1@</span>btinternet.com
+### Physics Graduate
 
 You can use the [editor on GitHub](https://github.com/mjoldham/mjoldham.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

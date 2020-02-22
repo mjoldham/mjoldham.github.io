@@ -1,4 +1,8 @@
 theme: jekyll-theme-minimal
 title: Mark Oldham
-email: mark.oldham1@btinternet.com
+email: "mark.oldham1@btinternet.com"
 description: Physics Graduate
+navbar-links:
+  Portfolio: "portfolio"
+  About me: "aboutme"
+  CV: "cv"
